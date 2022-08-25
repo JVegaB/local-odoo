@@ -1,0 +1,7 @@
+export ODOO_VERSION="15.0"
+export ODOO_REPO="https://github.com/odoo/odoo.git"
+export MAIN_REPO=""
+export MAIN_REPO_NAME=""
+export ODOO_CONFIG_FILE=".odoorc"
+export MISSING_REPOS_FILE="missing_repos.txt"
+export MISSING_REPOS_ACTION_URL="https://github.com/OCA/"
